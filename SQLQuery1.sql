@@ -1,0 +1,1 @@
+SELECT * FROM PizzaDB.pizza_sales;
